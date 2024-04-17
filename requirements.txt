@@ -1,0 +1,6 @@
+streamlit==1.10.0
+pandas==1.4.2
+fpdf==1.7.2
+openpyxl==3.0.10
+lxml==4.9.1
+python-dotenv==0.20.0
